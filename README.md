@@ -4,7 +4,7 @@ This is a drone application that was created in order to communicate with a dron
 
 ## Here are some images of the application as it stands
 
-![drone_img1](https://user-images.githubusercontent.com/92836135/156453357-14ef9244-fb4d-4eb8-a0e2-768a006a7ce3.png)
+![drone_img_2](https://user-images.githubusercontent.com/92836135/156453853-34bf5ae5-1fc1-4bc4-af4e-5ad779090923.png)
 ![Screenshot_1646256074](https://user-images.githubusercontent.com/92836135/156453043-b53e1b65-80b1-41bf-85c3-c89c61d93e44.png)
 ![Screenshot_1646256084](https://user-images.githubusercontent.com/92836135/156453052-66d52059-fb75-44e6-b1ad-6c4a6b615ae9.png)
 ![Screenshot_1646256090](https://user-images.githubusercontent.com/92836135/156453059-679db4d1-927d-4ce1-bbf5-2dfe2731576a.png)
