@@ -4,10 +4,10 @@ This is a drone application that was created in order to communicate with a dron
 
 ## Here are some images of the application as it stands
 
-![drone_img_2](https://user-images.githubusercontent.com/92836135/156453853-34bf5ae5-1fc1-4bc4-af4e-5ad779090923.png)
-![Screenshot_1646256074](https://user-images.githubusercontent.com/92836135/156453043-b53e1b65-80b1-41bf-85c3-c89c61d93e44.png)
-![Screenshot_1646256084](https://user-images.githubusercontent.com/92836135/156453052-66d52059-fb75-44e6-b1ad-6c4a6b615ae9.png)
-![Screenshot_1646256090](https://user-images.githubusercontent.com/92836135/156453059-679db4d1-927d-4ce1-bbf5-2dfe2731576a.png)
-![Screenshot_1646256126](https://user-images.githubusercontent.com/92836135/156453067-f6dfb550-976a-40b9-a1da-2884513ffca4.png)
-![Screenshot_1646256174](https://user-images.githubusercontent.com/92836135/156453074-bc35d340-f657-4c64-a256-72a455cb584e.png)
-![Screenshot_1646256212](https://user-images.githubusercontent.com/92836135/156453087-5e22bf7c-c983-4e20-aa61-642c8e158a13.png)
+![drone_img1](https://user-images.githubusercontent.com/92836135/156454672-07cc5b9b-8d9f-40fd-8f54-3ebd88dfd3a1.png)
+![drone_img2](https://user-images.githubusercontent.com/92836135/156454678-69cb37ae-020f-4915-8426-14cff5dc6a74.png)
+![drone_img3](https://user-images.githubusercontent.com/92836135/156454684-55b00615-b990-4193-a040-251ef76d1e1a.png)
+![drone_img4](https://user-images.githubusercontent.com/92836135/156454693-5ab90e5f-2886-4fc0-abf4-2e709e7cb338.png)
+![drone_img5](https://user-images.githubusercontent.com/92836135/156454695-9c9b0361-7b7d-4349-8669-12beb2c7ee6b.png)
+![drone_img6](https://user-images.githubusercontent.com/92836135/156454698-4ea5c494-a532-4ed5-86e5-e57273547660.png)
+![drone_img7](https://user-images.githubusercontent.com/92836135/156454702-98410a7d-16b9-4686-9893-2be7a8f63f33.png)
