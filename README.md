@@ -3,8 +3,7 @@
 This is a drone application that was created in order to communicate with a drone onboard computer running a python script. What that means is that this application will send commands or full scripts to a real drone to be executed. The drone API written in Python uses the dronekit library as well as custom fucntions written by me for use of avoidance. This application is meant to be user friendly, but still allow you to be creative and make exciting autonomous drone flights. The application comes with a map(still in progress) that will allow you to select pinpoints of where you want you drone to go. Another option is to write your script in python using the dronekit library available here https://github.com/dronekit/dronekit-python. This is a project is something that I find a lot of joy in and cannot wait to continue progress.
 
 ## Here are some images of the application as it stands
-
-![drone_img1](https://user-images.githubusercontent.com/92836135/156454672-07cc5b9b-8d9f-40fd-8f54-3ebd88dfd3a1.png)
+![d1](https://user-images.githubusercontent.com/92836135/156454846-e4a89828-4cba-4914-9960-1a1219a8893c.png)
 ![drone_img2](https://user-images.githubusercontent.com/92836135/156454678-69cb37ae-020f-4915-8426-14cff5dc6a74.png)
 ![drone_img3](https://user-images.githubusercontent.com/92836135/156454684-55b00615-b990-4193-a040-251ef76d1e1a.png)
 ![drone_img4](https://user-images.githubusercontent.com/92836135/156454693-5ab90e5f-2886-4fc0-abf4-2e709e7cb338.png)
